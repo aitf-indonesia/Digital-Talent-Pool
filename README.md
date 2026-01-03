@@ -65,7 +65,7 @@ docker ps
 ```
 
 
-Jika berhasil, API dapat diakses di `http://localhost:8000/docs`.
+Jika berhasil, dapat diakses di `[http://localhost:8000/docs](http://85.218.235.6:39997/)`.
 
 ---
 
